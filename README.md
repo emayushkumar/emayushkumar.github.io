@@ -1,2 +1,2 @@
-#emayushkumar.github.io
-# personal website
+emayushkumar.github.io
+Personal Website
